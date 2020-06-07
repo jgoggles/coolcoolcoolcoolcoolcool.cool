@@ -1,12 +1,15 @@
 name = "cool"
 license = "MIT"
-licenselink = "https://github.com/vimux/blank/blob/master/LICENSE"
-description = "Starter Hugo theme for developers."
-homepage = "https://github.com/vimux/blank/"
-tags = ["blog", "plain", "blank", "starter", "development"]
+licenselink = "https://github.com/jgoggles/coolcoolcoolcoolcoolcool.cool/blob/master/themes/cool/LICENSE"
+description = "Cool Hugo theme"
+tags = ["cool"]
 features = ["blog"]
-min_version = "0.20"
+min_version = "0.10"
 
 [author]
+  name = "jgoggles"
+  homepage = "danweaver.dev"
+
+[original]
   name = "Vimux"
   homepage = "https://github.com/vimux"
